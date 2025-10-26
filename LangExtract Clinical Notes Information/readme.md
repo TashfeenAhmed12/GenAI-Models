@@ -12,13 +12,13 @@ Healthcare organizations often store data in unstructured clinical notes, making
 
 This project’s goal is to automatically extract structured information from text to:
 
-Save time and reduce manual data entry.
+- Save time and reduce manual data entry.
 
-Improve accuracy in patient data extraction.
+- Improve accuracy in patient data extraction.
 
-Enable analytics teams to measure metrics like diagnosis frequency, medication trends, and departmental workload.
+- Enable analytics teams to measure metrics like diagnosis frequency, medication trends, and departmental workload.
 
-Build the foundation for data-driven healthcare decision-making.
+- Build the foundation for data-driven healthcare decision-making.
 
 **⚙️ How It Works**
 
