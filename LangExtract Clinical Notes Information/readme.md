@@ -61,5 +61,5 @@ Frequency: Every 8 hours
 
 The project produces an interactive HTML visualization (visualization.html) that displays the text with highlighted entities. You can open it locally or host it through GitHub Pages so others can interact with it directly in the browser.
 
-[View the HTML demo](./visualization.html)
+[View the HTML demo](./visualization.gif)
 
