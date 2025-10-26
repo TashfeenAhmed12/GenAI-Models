@@ -1,0 +1,15 @@
+# Core LLM + Extraction
+langextract
+ollama
+
+
+
+# Data & Utilities
+pandas
+numpy
+
+# Development & Notebooks
+jupyter
+ipykernel
+fsspec
+huggingface_hub 
