@@ -14,5 +14,6 @@ It detects and labels multiple objects within an image, draws bounding boxes, an
 
 ---
 
+## 🧾 Results
 
-
+<img width="1004" height="576" alt="image" src="https://github.com/user-attachments/assets/f82f0558-dc7f-4ee9-9731-b8a19b6e2215" />
