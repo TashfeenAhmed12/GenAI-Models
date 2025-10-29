@@ -21,7 +21,7 @@ Each object in the image is detected, labeled, and annotated with a bounding box
 
 ---
 
-### 🎯 Example 1 — Object Detection on Custom Image
+### 🎯 Example — Object Detection on Image
 
 | 🖼️ Labeled Output | ✅ Original Image |
 |------------------|------------------|
