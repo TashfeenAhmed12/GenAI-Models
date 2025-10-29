@@ -17,7 +17,6 @@ It takes a long text passage and generates a concise, meaningful summary in the 
 ### 🧠 Example 1: English Text Summarization
 
 **Input:**
-```text
 The US has passed the peak on new coronavirus cases, 
 President Donald Trump said and predicted that some states would reopen this month.
 The US has over 637,000 confirmed Covid-19 cases and over 30,826 deaths, the highest
