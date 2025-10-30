@@ -1,0 +1,15 @@
+torch
+transformers
+datasets
+pandas
+numpy
+tqdm
+accelerate
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+ipykernel
+hf_xet
+huggingface_hub[hf_xet]
