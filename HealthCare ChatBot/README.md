@@ -144,12 +144,6 @@ part of your routine.
 | **Actionability** | Moderate | High (with concrete examples) |
 | **Conversation Feel** | Robotic | Natural, warm |
 
-### Performance Notes
-- **Base Model**: Uses 8-bit quantization for faster CPU inference (~2-4x speed improvement)
-- **Fine-Tuned Model**: Runs in full float32 precision for maximum quality
-- **Trade-off**: Quantization speeds up inference but fine-tuning improves response quality, tone, and engagement
-- **Key Difference**: Fine-tuned model shows more supportive, accessible language while maintaining technical accuracy
-
 ---
 
 ## 🧪 Training Process Overview
@@ -175,4 +169,5 @@ part of your routine.
 - Defines consistent personality and safety guardrails
 - Injected into every conversation during training and inference
 - Critical for maintaining empathetic, non-diagnostic behavior
+
 
