@@ -14,3 +14,5 @@ ipykernel
 hf_xet
 huggingface_hub[hf_xet]
 peft
+bitsandbytes 
+accelerate
