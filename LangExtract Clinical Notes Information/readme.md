@@ -1,4 +1,4 @@
-**🧠 Clinical Entity Extraction using LangExtract + Ollama**
+## **🧠 Clinical Entity Extraction using LangExtract + Ollama**
 
 **🔍 Project Overview**
 
