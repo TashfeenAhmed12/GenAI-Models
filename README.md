@@ -14,13 +14,6 @@ A specialized **conversational AI** fine-tuned on **psychological dialogue patte
 
 ---
 
-### 🧾 [LLM Summarisation](https://github.com/TashfeenAhmed12/GenAI-Models/tree/64b3b5815889d61dd7a2644eb5f45bcead27c3d9/LLM%20Summarisation)
-Demonstrates **multilingual text summarization** using the `csebuetnlp/mT5_multilingual_XLSum` model.  
-- Generates concise, meaningful summaries in the **same language** as input.  
-- Ideal for research abstracts, news articles, and long-form content summarization.
-
----
-
 ### 🧬 [LangExtract Clinical Notes Information](https://github.com/TashfeenAhmed12/GenAI-Models/tree/64b3b5815889d61dd7a2644eb5f45bcead27c3d9/LangExtract%20Clinical%20Notes%20Information)
 Performs **clinical entity extraction** from unstructured medical notes using **LangExtract** and **Ollama (Gemma 2 2B)**.  
 - Extracts structured details like **patient age, diagnosis, medications, dosage, and frequency**.  
@@ -29,10 +22,18 @@ Performs **clinical entity extraction** from unstructured medical notes using **
 
 ---
 
+### 🧾 [LLM Summarisation](https://github.com/TashfeenAhmed12/GenAI-Models/tree/64b3b5815889d61dd7a2644eb5f45bcead27c3d9/LLM%20Summarisation)
+Demonstrates **multilingual text summarization** using the `csebuetnlp/mT5_multilingual_XLSum` model.  
+- Generates concise, meaningful summaries in the **same language** as input.  
+- Ideal for research abstracts, news articles, and long-form content summarization.
+
+---
+
 ### 🎯 [Object Detection with DETR (Facebook ResNet-50)](https://github.com/TashfeenAhmed12/GenAI-Models/tree/a91e46763f50f1c9bea25ca9526d3a0eb957ea9b/Object%20Detection)
 Implements **object detection** using **Facebook’s DETR (DEtection TRansformer)** via Hugging Face Transformers.  
 - Detects and labels multiple objects in an image.  
 - Draws bounding boxes and exports annotated visual outputs.  
 - Demonstrates transformer-based **end-to-end vision detection** without anchor boxes.
+
 
 
