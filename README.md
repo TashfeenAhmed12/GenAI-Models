@@ -22,7 +22,7 @@ Performs **clinical entity extraction** from unstructured medical notes using **
 
 ---
 
-### 🎬 [Movie Genre Classification from Plot Summaries](https://github.com/TashfeenAhmed12/GenAI-Models/tree/main/Movie%20Genre%20Classification)
+### 🎬 [Movie Genre Classification from Plot Summaries](https://github.com/TashfeenAhmed12/GenAI-Models/tree/e12b77245666afc7f6dfb1131a153089ed9d5309/Movie%20Genre%20From%20Plot)
 A comparative **machine learning project** that predicts **movie genres** from plot summaries using both **traditional ML models** (Naive Bayes, SVM, Logistic Regression) and a **fine-tuned DistilBERT transformer**. 
 
 ---
@@ -39,6 +39,7 @@ Implements **object detection** using **Facebook’s DETR (DEtection TRansformer
 - Detects and labels multiple objects in an image.  
 - Draws bounding boxes and exports annotated visual outputs.  
 - Demonstrates transformer-based **end-to-end vision detection** without anchor boxes.
+
 
 
 
