@@ -22,6 +22,11 @@ Performs **clinical entity extraction** from unstructured medical notes using **
 
 ---
 
+### 🎬 [Movie Genre Classification from Plot Summaries](https://github.com/TashfeenAhmed12/GenAI-Models/tree/main/Movie%20Genre%20Classification)
+A comparative **machine learning project** that predicts **movie genres** from plot summaries using both **traditional ML models** (Naive Bayes, SVM, Logistic Regression) and a **fine-tuned DistilBERT transformer**. 
+
+---
+
 ### 🧾 [LLM Summarisation](https://github.com/TashfeenAhmed12/GenAI-Models/tree/64b3b5815889d61dd7a2644eb5f45bcead27c3d9/LLM%20Summarisation)
 Demonstrates **multilingual text summarization** using the `csebuetnlp/mT5_multilingual_XLSum` model.  
 - Generates concise, meaningful summaries in the **same language** as input.  
@@ -34,6 +39,7 @@ Implements **object detection** using **Facebook’s DETR (DEtection TRansformer
 - Detects and labels multiple objects in an image.  
 - Draws bounding boxes and exports annotated visual outputs.  
 - Demonstrates transformer-based **end-to-end vision detection** without anchor boxes.
+
 
 
 
