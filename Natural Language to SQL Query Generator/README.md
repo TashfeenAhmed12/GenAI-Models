@@ -2,7 +2,7 @@
 
 ## 🎯 Business Objective
 
-This project enables non-technical users to query databases using natural language instead of SQL. By leveraging Large Language Models (LLMs), users can ask questions in plain English and receive accurate data insights without needing to know SQL syntax. This democratizes data access across organizations, reducing the dependency on data analysts for routine queries and accelerating decision-making processes.
+This project enables non-technical users to query databases using natural language instead of SQL. By leveraging Large Language Models (LLMs) and LangChain framework, users can ask questions in plain English and receive accurate data insights without needing to know SQL syntax. This democratizes data access across organizations, reducing the dependency on data analysts for routine queries and accelerating decision-making processes.
 
 ### Key Benefits:
 - **Accessibility**: Anyone can query databases without SQL knowledge
