@@ -1,6 +1,6 @@
 # 🧠 GenAI Models Repository
 
-This repository contains a collection of **Large Language Model (LLM) projects** exploring applications across **Natural Language Processing (NLP)**,**Computer Vision** and **AI Agent Workflows**.  
+This repository contains a collection of **Large Language Model (LLM) projects** exploring applications across **Natural Language Processing (NLP)**, **Computer Vision** and **AI Agent Workflows**.  
 Each project demonstrates how pretrained or fine-tuned LLMs can be adapted for real-world tasks
 
 ---
@@ -39,6 +39,7 @@ Implements **object detection** using **Facebook’s DETR (DEtection TRansformer
 - Detects and labels multiple objects in an image.  
 - Draws bounding boxes and exports annotated visual outputs.  
 - Demonstrates transformer-based **end-to-end vision detection** without anchor boxes.
+
 
 
 
