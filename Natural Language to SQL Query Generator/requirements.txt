@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-ollama
+SQLAlchemy
+pymysql
+pandas
+python-dotenv
