@@ -15,6 +15,11 @@ A specialized **conversational AI** fine-tuned on **psychological dialogue patte
 ---
 
 ### 🧬 [LangExtract Clinical Notes Information](https://github.com/TashfeenAhmed12/GenAI-Models/tree/64b3b5815889d61dd7a2644eb5f45bcead27c3d9/LangExtract%20Clinical%20Notes%20Information)
+This project enables non-technical users to query databases using natural language instead of SQL. By leveraging Large Language Models (LLMs) and LangChain framework, users can ask questions in plain English and receive accurate data insights without needing to know SQL syntax.
+
+---
+
+### 🧬 [Natural Language to SQL Query System]([https://github.com/TashfeenAhmed12/GenAI-Models/tree/64b3b5815889d61dd7a2644eb5f45bcead27c3d9/LangExtract%20Clinical%20Notes%20Information](https://github.com/TashfeenAhmed12/GenAI-Models/tree/1cd781732f453957036757b2a505276d89834b66/Natural%20Language%20to%20SQL%20Query%20Generator))
 Performs **clinical entity extraction** from unstructured medical notes using **LangExtract** and **Ollama (Gemma 2 2B)**.  
 - Extracts structured details like **patient age, diagnosis, medications, dosage, and frequency**.  
 - Converts free-text into **machine-readable JSON outputs**.  
@@ -39,6 +44,7 @@ Implements **object detection** using **Facebook’s DETR (DEtection TRansformer
 - Detects and labels multiple objects in an image.  
 - Draws bounding boxes and exports annotated visual outputs.  
 - Demonstrates transformer-based **end-to-end vision detection** without anchor boxes.
+
 
 
 
