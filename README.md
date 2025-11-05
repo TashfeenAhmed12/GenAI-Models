@@ -7,6 +7,15 @@ Each project demonstrates how pretrained or fine-tuned LLMs can be adapted for r
 
 ## 📚 Featured Projects
 
+### 🧬 [Natural Language to SQL Query System](https://github.com/TashfeenAhmed12/GenAI-Models/tree/5911ba4a453ed80010e28885aa656ee981c5fbea/Natural%20Language%20to%20SQL%20Query%20Generator)
+This project enables non-technical users to query databases using natural language instead of SQL. By leveraging Large Language Models (LLMs) and LangChain framework, users can ask questions in plain English and receive accurate data insights without needing to know SQL syntax 
+### AI/ML Framework:
+- **LangChain**: Orchestration framework for LLM workflows
+- **Ollama**: Local LLM runtime (using Llama 3.2 model)
+- **LangChain Ollama Integration**: Seamless LLM connectivity
+
+---
+
 ### 🩺 [Healthcare ChatBot](https://github.com/TashfeenAhmed12/GenAI-Models/tree/64b3b5815889d61dd7a2644eb5f45bcead27c3d9/HealthCare%20ChatBot)
 A specialized **conversational AI** fine-tuned on **psychological dialogue patterns** to deliver **empathetic, context-aware mental wellness guidance**.  
 - Built with Hugging Face Transformers and prompt-based dialogue control.  
@@ -15,11 +24,6 @@ A specialized **conversational AI** fine-tuned on **psychological dialogue patte
 ---
 
 ### 🧬 [LangExtract Clinical Notes Information](https://github.com/TashfeenAhmed12/GenAI-Models/tree/64b3b5815889d61dd7a2644eb5f45bcead27c3d9/LangExtract%20Clinical%20Notes%20Information)
-This project enables non-technical users to query databases using natural language instead of SQL. By leveraging Large Language Models (LLMs) and LangChain framework, users can ask questions in plain English and receive accurate data insights without needing to know SQL syntax.
-
----
-
-### 🧬 [Natural Language to SQL Query System]([https://github.com/TashfeenAhmed12/GenAI-Models/tree/64b3b5815889d61dd7a2644eb5f45bcead27c3d9/LangExtract%20Clinical%20Notes%20Information](https://github.com/TashfeenAhmed12/GenAI-Models/tree/1cd781732f453957036757b2a505276d89834b66/Natural%20Language%20to%20SQL%20Query%20Generator))
 Performs **clinical entity extraction** from unstructured medical notes using **LangExtract** and **Ollama (Gemma 2 2B)**.  
 - Extracts structured details like **patient age, diagnosis, medications, dosage, and frequency**.  
 - Converts free-text into **machine-readable JSON outputs**.  
@@ -44,7 +48,6 @@ Implements **object detection** using **Facebook’s DETR (DEtection TRansformer
 - Detects and labels multiple objects in an image.  
 - Draws bounding boxes and exports annotated visual outputs.  
 - Demonstrates transformer-based **end-to-end vision detection** without anchor boxes.
-
 
 
 
